@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @johncheda
+- 👋 Hi, its me @johncheda
 - 👀 I’m interested in ...ai,building chatbot,neural network
-- 🌱 I’m currently learning ...ai,building chatbot,neural network
+- 🌱 I’m currently learning ...python and java
 - 💞️ I’m looking to collaborate on ...software development like AI,building chatbot
 - 📫 How to reach me ...johncheda10@gmail.com
 
